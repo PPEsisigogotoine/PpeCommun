@@ -1,0 +1,15 @@
+D:\SylvainLuiset\PPE\PPE\PPE\bin\Debug\PPE.exe.config
+D:\SylvainLuiset\PPE\PPE\PPE\bin\Debug\PPE.exe
+D:\SylvainLuiset\PPE\PPE\PPE\bin\Debug\PPE.pdb
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.csprojAssemblyReference.cache
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\MainWindow.g.cs
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\App.g.cs
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE_MarkupCompile.cache
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE_MarkupCompile.lref
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\MainWindow.baml
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.g.resources
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.Properties.Resources.resources
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.csproj.GenerateResource.cache
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.csproj.CoreCompileInputs.cache
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.exe
+D:\SylvainLuiset\PPE\PPE\PPE\obj\Debug\PPE.pdb
